@@ -1,5 +1,7 @@
 Mój własny projekt bazy danych z zajęć w trakcie studiów IT na Uniwersytecie Gdańskim.
 
+Cały opis projetu w załączonej dokumentacji (pdf).
+
 ## Ewidencja dokumentów
 
 ### Aplikacja klient-serwer do ewidencji dokumentów przychodzących do firmy.
@@ -12,9 +14,11 @@ b. Apache + PHP, baza danych MySql
 c. Dostęp publiczny do aplikacji – konfiguracja sieci przez administratora.
 d. Środowisko użytkownika – przeglądarka internetowa
 e. Uruchamianie aplikacji – adres ip lub lokalna domena, konfiguracja lokalnej domeny – plik hostów w komputerach lub konfiguracja lokalnego DNS
+
 2. Ogólny zarys aplikacji
 a. Obieg dokumentów przychodzących i wychodzących, rejestracja, ewidencja, raporty
 b. W drugim etapie rejestracja zamówień, ewidencja w połączeniu z fakturami (zamówienie -> faktura)
+
 3. Baza danych:
 a. Tabele:
 i. Użytkownik
