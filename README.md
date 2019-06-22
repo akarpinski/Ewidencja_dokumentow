@@ -9,8 +9,8 @@ Cały opis projetu w załączonej dokumentacji (pdf).
 Sekretariat przyjmuje dokumenty i wprowadza je do ewidencji, następnie przekazuje dokumenty do konkretnych działów lub użytkowników. Typy dokumentów: faktury, faktury korygujące, pozostałe dokumenty księgowe, korespondencja urzędowa, korespondencja, pozostałe dokumenty.
 
 1. Środowisko
-a. Linux Fedora 15 uruchomiony w sieci lokalnej
-b. Apache + PHP, baza danych MySql
+* Linux Fedora 15 uruchomiony w sieci lokalnej
+* Apache + PHP, baza danych MySql
 c. Dostęp publiczny do aplikacji – konfiguracja sieci przez administratora.
 d. Środowisko użytkownika – przeglądarka internetowa
 e. Uruchamianie aplikacji – adres ip lub lokalna domena, konfiguracja lokalnej domeny – plik hostów w komputerach lub konfiguracja lokalnego DNS
