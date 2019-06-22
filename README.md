@@ -4,14 +4,14 @@ Cały opis projetu w załączonej dokumentacji (pdf).
 
 ## Ewidencja dokumentów
 
-### Aplikacja klient-serwer do ewidencji dokumentów przychodzących do firmy.
+### Aplikacja klient-serwer do ewidencji dokumentów przychodzących do firmy
 
 Sekretariat przyjmuje dokumenty i wprowadza je do ewidencji, następnie przekazuje dokumenty do konkretnych działów lub użytkowników. Typy dokumentów: faktury, faktury korygujące, pozostałe dokumenty księgowe, korespondencja urzędowa, korespondencja, pozostałe dokumenty.
 
 1. Środowisko
 * Linux Fedora 15 uruchomiony w sieci lokalnej
 * Apache + PHP, baza danych MySql
-* Dostęp publiczny do aplikacji – konfiguracja sieci przez administratora.
+* Dostęp publiczny do aplikacji – konfiguracja sieci przez administratora
 * Środowisko użytkownika – przeglądarka internetowa
 * Uruchamianie aplikacji – adres ip lub lokalna domena, konfiguracja lokalnej domeny – plik hostów w komputerach lub konfiguracja lokalnego DNS
 
@@ -33,9 +33,9 @@ Do budowy aplikacji użyto następujących technologii:
 • CSS3
 • JavaScript
 • JQuery
-• Ckeditor – edytor WYSIWYG – wizualny edytor HTML, który pozwala na łatwe wprowadzanie tekstu za pomocą interfejsu przypominającego programy typu OpenOffice czy Microsoft Word.
+• Ckeditor – edytor WYSIWYG – wizualny edytor HTML, który pozwala na łatwe wprowadzanie tekstu za pomocą interfejsu przypominającego programy typu OpenOffice czy Microsoft Word
 • Bootstrap – biblioteka graficznych interfejsów użytkownika
-• JQuery UI – biblioteka JavaScript z dodatkami, w aplikacji użyto kalendarza do wpisywania daty w formularzach.
+• JQuery UI – biblioteka JavaScript z dodatkami, w aplikacji użyto kalendarza do wpisywania daty w formularzach
 
 Środowisko serwerowe:
 • Aplikacja w wersji internetowej - hosting Home.pl
