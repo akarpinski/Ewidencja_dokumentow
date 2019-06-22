@@ -11,20 +11,19 @@ Sekretariat przyjmuje dokumenty i wprowadza je do ewidencji, następnie przekazu
 1. Środowisko
 * Linux Fedora 15 uruchomiony w sieci lokalnej
 * Apache + PHP, baza danych MySql
-c. Dostęp publiczny do aplikacji – konfiguracja sieci przez administratora.
-d. Środowisko użytkownika – przeglądarka internetowa
-e. Uruchamianie aplikacji – adres ip lub lokalna domena, konfiguracja lokalnej domeny – plik hostów w komputerach lub konfiguracja lokalnego DNS
+* Dostęp publiczny do aplikacji – konfiguracja sieci przez administratora.
+* Środowisko użytkownika – przeglądarka internetowa
+* Uruchamianie aplikacji – adres ip lub lokalna domena, konfiguracja lokalnej domeny – plik hostów w komputerach lub konfiguracja lokalnego DNS
 
 2. Ogólny zarys aplikacji
-a. Obieg dokumentów przychodzących i wychodzących, rejestracja, ewidencja, raporty
-b. W drugim etapie rejestracja zamówień, ewidencja w połączeniu z fakturami (zamówienie -> faktura)
+* Obieg dokumentów przychodzących i wychodzących, rejestracja, ewidencja, raporty
+* W drugim etapie rejestracja zamówień, ewidencja w połączeniu z fakturami (zamówienie -> faktura)
 
-3. Baza danych:
-a. Tabele:
-i. Użytkownik
-ii. Dział
-iii. Dokument
-iv. Klient
+3. Baza danych - tabele:
+* Użytkownik
+* Dział
+* Dokument
+* Klient
 
 ```
 Do budowy aplikacji użyto następujących technologii:
