@@ -19,7 +19,7 @@ Sekretariat przyjmuje dokumenty i wprowadza je do ewidencji, następnie przekazu
 * Obieg dokumentów przychodzących i wychodzących, rejestracja, ewidencja, raporty
 * W drugim etapie rejestracja zamówień, ewidencja w połączeniu z fakturami (zamówienie -> faktura)
 
-3. Baza danych - tabele:
+3. Baza danych - tabele
 * Użytkownik
 * Dział
 * Dokument
